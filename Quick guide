@@ -6,7 +6,13 @@ git commit (allows you to submit changes made to your file and a new save point 
 git log (shows commits done)
 git diff (Shows the diff between just saved file/not commited yet and your file in repository)
 git checkout (retrieves last commited file in the repository)
-version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Local Repository |-->GIT PUSH| Remote Repository. 
+version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Repository. 
+
+TO CREATE A REMOTE REPOSITORY
+
+git remote add origin https://github.com/nafizjiwa/Story.git (to link up local remote and repository)
+then
+git push -u origin master (push toward the remote called origin and push it toward the master branch)
 >
 >
 >
