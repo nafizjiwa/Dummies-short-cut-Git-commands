@@ -1,0 +1,9 @@
+git init (initializes the working directory)
+ls - a (shows hidden files)
+git add (adds/pushes files to staging area [files in staging area are represented in green])
+git status (shows where file is woring directory, stagging area, )
+git commit (allows you to submit changes made to your file and a new save point to the repository)
+git log (shows commits done)
+git diff (Shows the diff between just saved file/not commited yet and your file in repository)
+git checkout (retrieves last commited file in the repository)
+version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Repository. 
