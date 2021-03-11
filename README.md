@@ -39,4 +39,4 @@ collaborate (see also: git help workflows)
 'git help -a' and 'git help -g' list available subcommands and some
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+See 'git help git' for an overview of the system..
