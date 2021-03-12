@@ -15,8 +15,7 @@ CLONING: - port to your computer
          - on cmd line type:
           >(folder or drive in eg.Desktop) git clone <https://file downloading> 
 
-TO CREATE A REMOTE REPOSITORY
-
+*TO CREATE A REMOTE REPOSITORY*
 git remote add origin https://github.com/nafizjiwa/Story.git (to link up local remote and repository)
 then
 git push -u origin master (push toward the remote called origin and push it toward the master branch)
