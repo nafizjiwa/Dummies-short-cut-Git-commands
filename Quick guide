@@ -7,6 +7,7 @@ git log (shows commits done)
 git diff (Shows the diff between just saved file/not commited yet and your file in repository)
 git checkout (retrieves last commited file in the repository)
 version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Local Repository |--> GIT PUSH| Remote Repository. 
+                    Working Directory |     <--------------      CLONING       <--------------           | Remote Repository.
 Local Repository - .git folder on local drive
 Remote Repository - on Git Hub
 
