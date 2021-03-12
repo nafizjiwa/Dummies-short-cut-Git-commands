@@ -6,14 +6,16 @@ git commit (allows you to submit changes made to your file and a new save point 
 git log (shows commits done)
 git diff (Shows the diff between just saved file/not commited yet and your file in repository)
 git checkout (retrieves last commited file in the repository)
-version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Local Repository |--> GIT PUSH| Remote Repository. 
+
+VERSION CONTROL ==>
+                      Working Directory |--> ADD| Stagging Area |--> COMMIT| Local Repository |--> GIT PUSH| Remote Repository. 
                    
-Local Repository - .git folder on local drive
-Remote Repository - on Git Hub
-CLONING: - port to your computer
-                     Working Directory | <------------------    CLONING     <-----------------------     | Remote Repository.
-         - on cmd line type:
-          >(folder or drive in eg.Desktop) git clone <https://file downloading> 
+  Local Repository - .git folder on local drive
+  Remote Repository - on Git Hub
+  CLONING: - port to your computer
+                       Working Directory | <------------------    CLONING     <-----------------------     | Remote Repository.
+           - on cmd line type:
+            >(folder or drive in eg.Desktop) git clone <file address-https://file want downloaded/ported to your computer> 
 
 *TO CREATE A REMOTE REPOSITORY*
 git remote add origin https://github.com/nafizjiwa/Story.git (to link up local remote and repository)
