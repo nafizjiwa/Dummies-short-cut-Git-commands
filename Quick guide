@@ -6,7 +6,7 @@ git commit (allows you to submit changes made to your file and a new save point 
 git log (shows commits done)
 git diff (Shows the diff between just saved file/not commited yet and your file in repository)
 git checkout (retrieves last commited file in the repository)
-version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Repository. 
+version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Local Repository |--> GIT PUSH| Remote Repository. 
 
 TO CREATE A REMOTE REPOSITORY
 
