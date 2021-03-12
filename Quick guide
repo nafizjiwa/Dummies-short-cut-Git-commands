@@ -11,7 +11,7 @@ version control ==> Working Directory |--> ADD| Stagging Area |--> COMMIT| Local
 Local Repository - .git folder on local drive
 Remote Repository - on Git Hub
 CLONING: - port to your computer
-                     Working Directory |     <--------------      CLONING       <--------------           | Remote Repository.
+                     Working Directory | <------------------    CLONING     <-----------------------     | Remote Repository.
          - on cmd line type:
           >(folder or drive in eg.Desktop) git clone <https://file downloading> 
 
